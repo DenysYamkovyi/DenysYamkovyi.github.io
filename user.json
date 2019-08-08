@@ -1,0 +1,29 @@
+{
+    "id": "12345",
+    "profileImage": "link",
+    "firstName": "Fname",
+    "lastName": "Lname",
+    "email": "mail@mail.com",
+    "password": "qwerty",
+    "gender": 0,
+    "phoneNumber": "+380501113322",
+    "address": "Main tower 55/17",
+    "zip code": "20001",
+    "subscriptions": {
+        "id": "123456",
+        "type": 0,
+        "Name": "Gold",
+        "AccessType": 0,
+        "Price": "55",
+        "Information": "info"
+    },
+    "tournamentCounter": 5,
+    "idUserPaymentInfo": "idPayment",
+    "settings": {
+        "idUser": "idUser",
+        "Notifications": true,
+        "Language": 0,
+        "idFacebookAccount": "idFacebook",
+        "idGoogleAccount": "idGoogle"
+    }
+}
